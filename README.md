@@ -1,5 +1,5 @@
 # Explorer Notify Icon
-create notification icon in explorer.exe by injection dll.
+Create notification icon in explorer.exe by injection dll.
 
 ![alt text](https://raw.githubusercontent.com/proxytype/Explorer-Notify-Icon/main/notifyicon.gif)
 
